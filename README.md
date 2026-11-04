@@ -1,5 +1,7 @@
 <img src="https://img.shields.io/github/commit-activity/m/UNN-IASR/SE-Info?color=lime&style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/UNN-IASR/SE-Info?color=darkgreen&style=for-the-badge">
+
+
 ### Содержание
 [Посещаемость](#Посещаемость)
 
